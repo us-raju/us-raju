@@ -1,7 +1,7 @@
 <!-- ======================= -->
 <!-- Next-Level Professional GitHub Profile README -->
 <!-- ======================= -->
-![GitHub Cover](github-cover.png)
+![GitHub Cover](cover.png)
 # 👋 Hi, I'm Raju Ahmed
 
 I’m a passionate **Web Designer & Developer** creating user-friendly, visually appealing, and high-performance digital experiences. I combine creativity with technology to build interfaces and applications that are functional and delightful for users.  
